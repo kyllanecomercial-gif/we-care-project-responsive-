@@ -1,5 +1,4 @@
-<h1 align="center">We Care About You Pet</h1>
-<h2 align="center">Project Responsive</h2>
+<h1 align="center">We Care About You Pet - Project Responsive</h1>
 <h2 align="center">📖 Sobre o projeto</h2>
 <p align="center">
 Este projeto foi desenvolvido com o objetivo de colocar em prática conhecimentos de desenvolvimento Front-end, desafio disponibilizado pelo curso DevClub, criando uma interface moderna, organizada e responsiva. A aplicação foi construída utilizando HTML5 e CSS3, priorizando uma estrutura semântica, um código limpo e uma experiência de navegação agradável em diferentes dispositivos.
@@ -16,9 +15,9 @@ Durante o desenvolvimento, foram aplicados conceitos como:</p>
 <hr>
 <br/>
 <br/>
-
+<div align="center"> 
 <img src="https://github.com/kyllanecomercial-gif/we-care-project-responsive-/blob/main/assets/We%20Care%20-%20CellPhone.png?raw=true" alt="image-wecare-2" width="400px" heigth="250px" margin-left="100px"/>
-
+  <hr/>
 <img src="https://github.com/kyllanecomercial-gif/we-care-project-responsive-/blob/main/assets/We%20Care%20-%20Notebook.png?raw=true" />
-
+</div>
 <hr/>
