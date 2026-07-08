@@ -17,4 +17,8 @@ Durante o desenvolvimento, foram aplicados conceitos como:</p>
 <br/>
 <br/>
 
-<img src="https://github.com/kyllanecomercial-gif/we-care-project-responsive-/blob/main/assets/We%20Care%20-%20CellPhone.png?raw=true" alt="image-wecare-2" width="400px" heigth="250px" />
+<img src="https://github.com/kyllanecomercial-gif/we-care-project-responsive-/blob/main/assets/We%20Care%20-%20CellPhone.png?raw=true" alt="image-wecare-2" width="400px" heigth="250px" margin-left="100px"/>
+
+<img src="https://github.com/kyllanecomercial-gif/we-care-project-responsive-/blob/main/assets/We%20Care%20-%20Notebook.png?raw=true" />
+
+<hr/>
