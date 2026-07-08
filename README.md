@@ -12,10 +12,8 @@ Durante o desenvolvimento, foram aplicados conceitos como:</p>
 - Organização do projeto seguindo boas práticas de desenvolvimento Front-end. <br/>
 <br/>
 O projeto tem como objetivo reforçar fundamentos essenciais para a criação de páginas web modernas, acessíveis e adaptáveis a diferentes tamanhos de tela.
-
-
-
-
-
+<hr>
 <br/>
-<img src="https://github.com/kyllanecomercial-gif/we-care-project-responsive-/blob/main/assets/We%20Care%20-%20Notebook.png?raw=true alt="image-wecare" />
+<br/>
+
+<img src="https://github.com/kyllanecomercial-gif/we-care-project-responsive-/blob/main/assets/We%20Care%20-%20CellPhone.png?raw=true" alt="image-wecare-2" width="400px" heigth="250px" />
